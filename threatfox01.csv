@@ -1,0 +1,101 @@
+﻿,INDICATOR,,,
+11/02/2025 02:05,114.55.252.159:14782, Quasar RAT,QuasarRAT RAT, abuse_ch
+11/02/2025 01:25,http://368456cm.nyashk.ru/eternalPhppollserverLinuxtrafficprivateUploads.php, DCRat,dcrat, abuse_ch
+11/02/2025 00:01,search.appauthservice.online, Unknown malware,AS29802 censys EvilGinx HVC-AS panel phishing, DonPasci
+11/02/2025 00:01,ulgroup.appauthservice.online, Unknown malware,AS29802 censys EvilGinx HVC-AS panel phishing, DonPasci
+11/02/2025 00:01,oidc.mail.appauthservice.online, Unknown malware,AS29802 censys EvilGinx HVC-AS panel phishing, DonPasci
+11/02/2025 00:01,45.81.115.141:8080, ERMAC,AS205463 c2 censys ERMAC panel PEMBEGULISG, DonPasci
+11/02/2025 00:01,68.168.118.2:8848, DCRat,AS36666 c2 censys dcrat GTCOMM RAT, DonPasci
+11/02/2025 00:01,68.168.118.4:8848, DCRat,AS36666 c2 censys dcrat GTCOMM RAT, DonPasci
+11/02/2025 00:01,46.153.112.54:9090, DCRat,AS35819 c2 censys dcrat MOBILY-AS RAT, DonPasci
+11/02/2025 00:01,46.246.14.3:9090, DCRat,AS42708 c2 censys dcrat GLESYS RAT, DonPasci
+11/02/2025 00:01,128.90.122.65:8808, AsyncRAT,AS40861 asyncrat c2 censys PARAD-40-ASN RAT, DonPasci
+11/02/2025 00:01,179.13.5.14:8808, AsyncRAT,AS27831 asyncrat c2 censys COLOMBIA RAT, DonPasci
+11/02/2025 00:01,107.170.60.30:6000, AsyncRAT,AS14061 asyncrat c2 censys DIGITALOCEAN-ASN RAT, DonPasci
+11/02/2025 00:00,5.78.125.211:2405, Remcos,AS212317 c2 censys HETZNER-CLOUD3-AS RAT remcos, DonPasci
+11/02/2025 00:00,206.123.150.225:2405, Remcos,AS3223 c2 censys RAT remcos VOXILITY, DonPasci
+11/02/2025 00:00,192.3.179.143:2404, Remcos,AS-COLOCROSSING AS36352 c2 censys RAT remcos, DonPasci
+11/02/2025 00:00,23.27.240.252:1433, Cobalt Strike,AS149440 c2 censys CobaltStrike cs-watermark-666666666 EVOXTENTERPRISE-AS-AP, DonPasci
+10/02/2025 23:05,195.177.95.118:4782, XenoRAT,XenoRAT, abuse_ch
+10/02/2025 22:48,47.90.155.109:53, Cobalt Strike,CobaltStrike drb-ra, abuse_ch
+10/02/2025 22:47,jrnsfwf.wenopc.tech, Cobalt Strike,CobaltStrike drb-ra, abuse_ch
+10/02/2025 20:44,188.49.122.255:995, QakBot,drb-ra QakBot qbot Quakbot, abuse_ch
+10/02/2025 20:44,185.177.74.207:443, Eye Pyramid,drb-ra EyePyramid, abuse_ch
+10/02/2025 20:43,103.215.81.156:60000, Unknown malware,drb-ra RAT, abuse_ch
+10/02/2025 20:01,comet.appauthservice.online, Unknown malware,AS29802 censys EvilGinx HVC-AS panel phishing, DonPasci
+10/02/2025 20:00,54.178.158.125:80, Brute Ratel C4,AMAZON-02 AS16509 brc4 c2 censys, DonPasci
+10/02/2025 20:00,timeweb25.ru, Havoc,AS9123 c2 censys Havoc TIMEWEB-AS, DonPasci
+10/02/2025 20:00,45.149.241.44:7777, AsyncRAT,AS401116 asyncrat c2 censys NYBULA RAT, DonPasci
+10/02/2025 20:00,195.26.245.113:7707, AsyncRAT,AS40021 asyncrat c2 censys NL-811-40021 RAT, DonPasci
+10/02/2025 20:00,195.26.245.113:6606, AsyncRAT,AS40021 asyncrat c2 censys NL-811-40021 RAT, DonPasci
+10/02/2025 20:00,45.149.241.44:4444, AsyncRAT,AS401116 asyncrat c2 censys NYBULA RAT, DonPasci
+10/02/2025 20:00,31.58.169.102:6606, AsyncRAT,AS23470 asyncrat c2 censys RAT RELIABLESITE, DonPasci
+10/02/2025 20:00,31.58.169.102:7707, AsyncRAT,AS23470 asyncrat c2 censys RAT RELIABLESITE, DonPasci
+10/02/2025 20:00,31.58.169.102:8808, AsyncRAT,AS23470 asyncrat c2 censys RAT RELIABLESITE, DonPasci
+10/02/2025 20:00,123.11.143.166:5873, Unknown malware,AS4837 c2 censys CHINA169-BACKBONE Supershell, DonPasci
+10/02/2025 20:00,104.243.242.236:1692, Remcos,AS212238 c2 CDNEXT censys RAT remcos, DonPasci
+10/02/2025 20:00,5.78.119.141:2404, Remcos,AS212317 c2 censys HETZNER-CLOUD3-AS RAT remcos, DonPasci
+10/02/2025 20:00,176.65.142.123:443, Remcos,AS215240 c2 censys NETRESEARCH RAT remcos, DonPasci
+10/02/2025 20:00,88.247.165.149:2404, DarkComet,AS9121 c2 censys darkcomet RAT TTNET, DonPasci
+10/02/2025 20:00,38.207.132.101:8443, Cobalt Strike,AS932 c2 censys CobaltStrike cs-watermark-666666666 XNNET, DonPasci
+10/02/2025 20:00,38.207.132.101:12345, Cobalt Strike,AS932 c2 censys CobaltStrike cs-watermark-666666666 XNNET, DonPasci
+10/02/2025 20:00,156.225.18.219:80, Cobalt Strike,AS142032 c2 censys CobaltStrike cs-watermark-987654321 HFTCL-AS-AP, DonPasci
+10/02/2025 19:44,bisaorcc.moreisxao.click, AsyncRAT,asyncrat c2, juroots
+10/02/2025 19:35,195.3.223.146:5553, AsyncRAT,asyncrat RAT, abuse_ch
+10/02/2025 19:23,purelog.duckdns.org, PureLogs Stealer,PureLogStealer, abuse_ch
+10/02/2025 19:12,check.retold2.online, ClearFake,ClearFake, threatcat_ch
+10/02/2025 19:12,https://check.retold2.online/gkcxv.google, ClearFake,ClearFake,Anonymous
+10/02/2025 18:57,check.unmovable.online, ClearFake,ClearFake, threatcat_ch
+10/02/2025 18:57,https://check.unmovable.online/gkcxv.google, ClearFake,ClearFake,Anonymous
+10/02/2025 18:46,connectionshock.icu, Unknown malware,OffLoader, abuse_ch
+10/02/2025 18:46,https://connectionshock.icu/art.php, Unknown malware,OffLoader, abuse_ch
+10/02/2025 18:41,check.swung.site, ClearFake,ClearFake, threatcat_ch
+10/02/2025 18:41,https://check.swung.site/gkcxv.google, ClearFake,ClearFake,Anonymous
+10/02/2025 18:40,http://103.207.125.157:59929/Mozi.m, Mozi,, sicehicetf
+10/02/2025 18:38,pubad-gov-lk.org-co.net, SideWinder,APT SideWinder, abuse_ch
+10/02/2025 18:34,38.54.15.88:8081, Unknown malware,Antidot, abuse_ch
+10/02/2025 18:34,shop4s.top, Unknown malware,Antidot, abuse_ch
+10/02/2025 18:16,strosom.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,strepansar.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,scromantanpor56.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,strasanal63.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,scredindor.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,scretenim.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,propinjanjal0.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,prasinfel.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,propinhenjal.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,trucol.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,brumol3.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,cleriz157.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,crasonnonzol.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,crecil.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,crokil.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,crolancal16.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,drehal.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,drosonvir.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,flipinvaz.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,frafinsil.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,fragir1.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,frupunkintil.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,glabanhenkil.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,glabanriz.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,glelancal.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,glemennil.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,glopal.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,glubonzinlhar.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,glurinfil71.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,gramxil.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,gruel.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,grugoncindor.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,grugoncinsom38.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,planmol.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,plecinlhar.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,pleminsandiz.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,pleral.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,ploqual.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,blorol.claudiacampos.express, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:12,brubenkil23.soniarocha.blog, Astaroth,astaroth guildma, abuse_ch
+10/02/2025 18:10,check.opossum.online, ClearFake,ClearFake, threatcat_ch
+10/02/2025 18:10,https://check.opossum.online/gkcxv.google, ClearFake,ClearFake,Anonymous
+10/02/2025 18:01,cc90bf946b495aec9133f6c970dc873977592277d003248361cfea1d0706c811, Unknown malware,APT SideCopy, abuse_ch
+10/02/2025 18:01,b5a2949defda9a282aa307580118f929dd208a56e8cfbf5012c290e4cfac1ced, Unknown malware,APT SideCopy, abuse_ch
